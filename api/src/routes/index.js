@@ -1,5 +1,6 @@
 const { Router } = require('express');
-// Importar todos los routers;
+
+// Importar todos los routers
 const dogRouter = require('./dogsRoutes')
 const temperamentRouter = require('./temperamentRoutes')
 
